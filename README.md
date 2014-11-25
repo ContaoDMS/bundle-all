@@ -13,7 +13,7 @@ For more information see the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 Installation
 ------------
 
-Install it via [composer](https://packagist.org/packages/contao-dms/bundle-all).
+Install it via composer: [contao-dms/bundle-all](https://packagist.org/packages/contao-dms/bundle-all).
 
 
 Tracker
