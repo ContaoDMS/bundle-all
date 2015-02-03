@@ -23,9 +23,6 @@
 		"contao-dms/dms":">=3.0.0",
 		"contao-dms/file-type-sets":">=1.1.0"
 	},
-	"conflict": {
-		"contao/core": ">=3.0.0,<3.2.0"
-	},
 	"extra":{
 		"branch-alias": {
 			"dev-master": "1.0.x-dev"
