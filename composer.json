@@ -1,8 +1,9 @@
 {
 	"name":"contao-dms/bundle-all",
 	"description":"Installs the Contao DMS and all available additional components.",
-	"keywords":["contao", "dms", "document", "management", "files", "bundle"],
-	"type":"contao-module",
+	"keywords":["contao", "dms", "document", "management", "files", "bundle", "metapackage"],
+	"type":"metapackage",
+	"homepage":"https://github.com/ContaoDMS/dms",
 	"license":"LGPL-3.0+",
 	"authors":[
 		{
