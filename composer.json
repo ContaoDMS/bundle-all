@@ -3,7 +3,7 @@
 	"description":"Installs the Contao DMS and all available additional components.",
 	"keywords":["contao", "dms", "document", "management", "files", "bundle", "metapackage"],
 	"type":"metapackage",
-	"homepage":"https://github.com/ContaoDMS/dms",
+	"homepage":"https://github.com/ContaoDMS",
 	"license":"LGPL-3.0+",
 	"authors":[
 		{
