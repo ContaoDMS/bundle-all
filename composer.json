@@ -4,7 +4,7 @@
 	"keywords":["contao", "dms", "document", "management", "files", "bundle", "metapackage"],
 	"type":"metapackage",
 	"homepage":"https://github.com/ContaoDMS/dms",
-	"license":"LGPL-3.0+",
+	"license":"LGPL-3.0-or-later",
 	"authors":[
 		{
 			"name":"Cliff Parnitzky",
